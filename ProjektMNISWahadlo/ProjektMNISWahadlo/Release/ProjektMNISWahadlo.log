@@ -1,0 +1,20 @@
+﻿  ProjektMNISWahadlo.cpp
+ProjektMNISWahadlo.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+ProjektMNISWahadlo.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
+ProjektMNISWahadlo.cpp(382): warning C4305: 'argument': truncation from 'double' to 'float'
+ProjektMNISWahadlo.cpp(392): warning C4305: 'argument': truncation from 'double' to 'float'
+ProjektMNISWahadlo.cpp(398): warning C4305: 'argument': truncation from 'double' to 'float'
+ProjektMNISWahadlo.cpp(404): warning C4305: 'argument': truncation from 'double' to 'float'
+ProjektMNISWahadlo.cpp(487): warning C4018: '<': signed/unsigned mismatch
+ProjektMNISWahadlo.cpp(525): warning C4018: '<': signed/unsigned mismatch
+ProjektMNISWahadlo.cpp(557): warning C4018: '<': signed/unsigned mismatch
+ProjektMNISWahadlo.cpp(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+ProjektMNISWahadlo.cpp(628): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+ProjektMNISWahadlo.cpp(759): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 348 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjektMNISWahadlo.vcxproj -> C:\Users\Kuba\Desktop\cpp\ProjektMNISWahadlo\Release\ProjektMNISWahadlo.exe
+  ProjektMNISWahadlo.vcxproj -> C:\Users\Kuba\Desktop\cpp\ProjektMNISWahadlo\Release\ProjektMNISWahadlo.pdb (Full PDB)

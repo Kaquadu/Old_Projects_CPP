@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ProjektMNISWahadlo.cpp
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(285): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(291): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(297): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(374): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(407): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(456): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\cpp\projektmniswahadlo\projektmniswahadlo\projektmniswahadlo.cpp(504): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  ProjektMNISWahadlo.vcxproj -> C:\Users\Kuba\Desktop\cpp\ProjektMNISWahadlo\Debug\ProjektMNISWahadlo.exe
+  ProjektMNISWahadlo.vcxproj -> C:\Users\Kuba\Desktop\cpp\ProjektMNISWahadlo\Debug\ProjektMNISWahadlo.pdb (Full PDB)

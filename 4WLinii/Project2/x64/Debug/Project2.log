@@ -1,0 +1,6 @@
+﻿  SFMLInstall.cpp
+SFMLInstall.obj : error LNK2019: unresolved external symbol "public: void __cdecl Game::ShowMenu(void)" (?ShowMenu@Game@@QEAAXXZ) referenced in function "public: void __cdecl Game::RunGame(void)" (?RunGame@Game@@QEAAXXZ)
+C:\Users\Kuba\Desktop\SFML-2.3.2\lib\sfml-graphics-d.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Kuba\Desktop\SFML-2.3.2\lib\sfml-window-d.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Kuba\Desktop\SFML-2.3.2\lib\sfml-system-d.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Kuba\Desktop\CPPSFML\4WLinii\x64\Debug\Project2.exe : fatal error LNK1120: 1 unresolved externals
